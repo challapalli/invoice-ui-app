@@ -1,0 +1,28 @@
+
+.col-invoice {
+    background-color: #9eb7cf;
+}
+
+.col-customer {
+    background-color: #e9ecef;
+}
+
+.col-email {
+    background-color: #f8f9fa;
+}
+
+.col-invoiceDate {
+    background-color: #e9ecef;
+}
+
+.col-dueDate {
+    background-color: #f8f9fa;
+}
+
+.col-status {
+    background-color: #e9ecef;
+}
+
+.col-amount {
+    background-color: #f8f9fa;
+}
